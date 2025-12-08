@@ -1,0 +1,26 @@
+[
+  [
+    "ATU presenta nuevas rutas desde el aeropuerto En Miraflores, el subdirector de planificación de la ATU, John Romero, indicó que dos rutas están destinadas al turismo, conectando con los servicios hoteleros o los terminales terrestres, mientras que los demás conectarán con el Metropolitano y los transportes regulares.",
+    {
+      "entities": [
+        [0, 3, "ORG"],
+        [49, 59, "GPE"],
+        [64, 102, "TITLE"],
+        [104, 115, "PERSON"],
+        [276, 289, "ORG"]
+      ]
+    }
+  ],
+  [
+    "ATU presenta nuevas rutas desde el aeropuerto En Miraflores, el subdirector de planificación de la ATU, John Romero, indicó que dos rutas están destinadas al turismo, conectando con los servicios hoteleros o los terminales terrestres, mientras que los demás conectarán con el Metropolitano y los transportes regulares.",
+    {
+      "entities": [
+        [0, 3, "ORG"],
+        [49, 59, "GPE"],
+        [64, 102, "TITLE"],
+        [104, 115, "PERSON"],
+        [276, 289, "ORG"]
+      ]
+    }
+  ]
+]
